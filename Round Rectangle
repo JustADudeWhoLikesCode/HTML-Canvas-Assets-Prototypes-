@@ -31,4 +31,4 @@ if (stroke) {
 this.stroke();
 }
 }
-// HOW TO USE: ctx.roundRect(x, y, w, h, radius, fill stroke) *Fill and Stroke are True and False*
+// HOW TO USE: ctx.roundRect(x, y, w, h, radius, fill, stroke) *Fill and Stroke are True and False*
